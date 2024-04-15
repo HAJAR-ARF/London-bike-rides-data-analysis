@@ -13,6 +13,8 @@
 overview of bike ride trends across various weather conditions, days of the week, and types of days 
 (whether holiday, weekday, or weekend). With clear, engaging visuals and user-friendly interfaces,
   we seek through these visualizations making data-driven decisions, optimize services, and enhance the overall biking experience for residents and visitors alike.
+  ![image](https://github.com/HAJAR-ARF/London-bike-rides-data-analysis/assets/155308320/60dae370-a1fd-4558-9ca5-c926f679a5fd)
+
 
   ### Data Sources 
   kaggle Data set : https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
